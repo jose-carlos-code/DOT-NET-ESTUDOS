@@ -33,3 +33,39 @@ C:\Users\carli\OneDrive\Área de Trabalho\estudos c#\estudos1\obj\Debug\net8.0\r
 C:\Users\carli\OneDrive\Área de Trabalho\estudos c#\estudos1\obj\Debug\net8.0\estudos1.pdb
 C:\Users\carli\OneDrive\Área de Trabalho\estudos c#\estudos1\obj\Debug\net8.0\estudos1.genruntimeconfig.cache
 C:\Users\carli\OneDrive\Área de Trabalho\estudos c#\estudos1\obj\Debug\net8.0\ref\estudos1.dll
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\bin\Debug\net8.0\appsettings.Development.json
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\bin\Debug\net8.0\appsettings.json
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\bin\Debug\net8.0\estudos1.staticwebassets.endpoints.json
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\bin\Debug\net8.0\estudos1.exe
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\bin\Debug\net8.0\estudos1.deps.json
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\bin\Debug\net8.0\estudos1.runtimeconfig.json
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\bin\Debug\net8.0\estudos1.dll
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\bin\Debug\net8.0\estudos1.pdb
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\obj\Debug\net8.0\estudos1.csproj.AssemblyReference.cache
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\obj\Debug\net8.0\estudos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\obj\Debug\net8.0\estudos1.AssemblyInfoInputs.cache
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\obj\Debug\net8.0\estudos1.AssemblyInfo.cs
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\obj\Debug\net8.0\estudos1.csproj.CoreCompileInputs.cache
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\obj\Debug\net8.0\estudos1.MvcApplicationPartsAssemblyInfo.cs
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\obj\Debug\net8.0\estudos1.MvcApplicationPartsAssemblyInfo.cache
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\obj\Debug\net8.0\estudos1.sourcelink.json
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\obj\Debug\net8.0\scopedcss\bundle\estudos1.styles.css
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\obj\Debug\net8.0\staticwebassets.build.json
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\obj\Debug\net8.0\staticwebassets.development.json
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\obj\Debug\net8.0\estudos1.csproj.Up2Date
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\obj\Debug\net8.0\estudos1.dll
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\obj\Debug\net8.0\refint\estudos1.dll
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\obj\Debug\net8.0\estudos1.pdb
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\obj\Debug\net8.0\estudos1.genruntimeconfig.cache
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\obj\Debug\net8.0\ref\estudos1.dll
+C:\GitHub\DOT-NET-ESTUDOS\estudos1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
