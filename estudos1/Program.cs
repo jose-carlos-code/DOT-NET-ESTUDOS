@@ -17,7 +17,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-Console.WriteLine("hello, world");
+Console.WriteLine(DateTime.Now);
 app.UseHttpsRedirection();
 
 app.UseAuthorization();

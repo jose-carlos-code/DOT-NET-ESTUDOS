@@ -9,11 +9,25 @@ namespace estudos1.Controllers;
 public class TarefasController : ControllerBase
 {
     private static List<Tarefa> tarefas = new List<Tarefa>();
+    private static int proximoId = 1;
 
     [HttpGet]
     public IActionResult Get()
     {
         return Ok(tarefas);
+    }
+
+    [HttpGet("{id}")]
+    public IActionResult getById(int id)
+    {
+        var tarefa = tarefas.FirstOrDefault(t => t.Id == id);
+        if(tarefa == null)
+        {
+            return NotFound("Tarefa não encontrada");
+
+        }
+
+        return Ok(tarefa);
     }
 
     [HttpPost]
